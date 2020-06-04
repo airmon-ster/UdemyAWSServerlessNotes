@@ -1,0 +1,13 @@
+{
+  "name": "sls-backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "aws-sdk": "^2.668.0",
+    "moment": "^2.25.1",
+    "serverless-offline": "^6.1.4",
+    "underscore": "^1.10.2",
+    "uuidv4": "^6.0.8"
+  }
+}
